@@ -16,3 +16,17 @@ the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
 Built on the foundation of Bitcoin, PPCoin and NovaCoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
 
+Platforms
+-----
+
+#*Windows*
+
+Read [Windows build instructions](build-msw.txt)
+
+#*Linux*
+
+Read [Linux/Unix build instructions](build-unix.txt)
+
+#*OSX*
+
+Read [OSX build instructions](build-osx.txt)
