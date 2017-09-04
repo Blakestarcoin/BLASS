@@ -41,3 +41,10 @@ RPC port: 14443
 
 Testnet P2P port: 24442
 Testnet RPC port: 24443
+
+DEVELOPERS
+----------
+
+If you want to get involved in BLASS development community please check documentation.
+
+[Official BLASS documentation](tree/master/doc)
