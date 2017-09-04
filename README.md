@@ -47,4 +47,4 @@ DEVELOPERS
 
 If you want to get involved in BLASS development community please check documentation.
 
-[Official BLASS documentation](tree/master/doc)
+[Official BLASS documentation](blob/master/doc)
