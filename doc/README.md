@@ -21,12 +21,12 @@ Platforms
 
 #*Windows*
 
-Read [Windows build](build-msw.txt)
+Read [Windows build instructions](build-msw.txt)
 
 #*Linux*
 
-Read [Windows build](build-unix.txt)
+Read [Linux/Unix build instructions](build-unix.txt)
 
 #*OSX*
 
-Read [OSX build](build-osx.txt)
+Read [OSX build instructions](build-osx.txt)
