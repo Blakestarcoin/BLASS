@@ -19,14 +19,14 @@ help further advance the field of crypto-currency.
 Platforms
 -----
 
-#Windows 
+#*Windows*
 
 Read [Windows build](build-msw.txt)
 
-#Linux
+#*Linux*
 
 Read [Windows build](build-unix.txt)
 
-#OSX
+#*OSX*
 
 Read [OSX build](build-osx.txt)
